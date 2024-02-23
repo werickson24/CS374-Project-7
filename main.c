@@ -6,6 +6,7 @@ void example2();
 void example3();
 
 int main(void){
+    return 0;
     printf("\nExample 1: =========================\n");
     //example1();
     printf("\nExample 2: =========================\n");
